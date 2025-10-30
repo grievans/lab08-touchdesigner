@@ -1,10 +1,12 @@
 # Griffin Evans
 
-![](Screenshot%202025-10-29%20182933.png)
-
 ![](Screenshot%202025-10-29%20105749.png)
 
 ![](Screenshot%202025-10-29%20114719.png)
+
+![](Screenshot%202025-10-29%20203929.png)
+
+![](Screenshot%202025-10-29%20182933.png)
 
 In addition to a slit-scan effect, staggering the camera in vertical slices, I performed the same technique using two noise patterns. The first uses a constant Simplex noise pattern, while the second uses a 3D Harmonic SUmmation noise which has time passed in as the Z value alongside the screen position's X and Y.
 
